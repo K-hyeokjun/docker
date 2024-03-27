@@ -1,0 +1,5 @@
+2024-03-25 10:11:07.083 [info] Started local extension host with pid 3892.
+2024-03-25 10:11:09.628 [warning] No search provider registered for scheme: file, waiting
+2024-03-25 10:11:10.933 [info] [perf] Render performance baseline is 107ms
+2024-03-25 10:11:46.152 [info] Started local extension host with pid 4000.
+2024-03-25 10:11:50.235 [info] [perf] Render performance baseline is 51ms

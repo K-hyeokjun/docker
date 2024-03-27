@@ -1,0 +1,37 @@
+2024-03-25 10:32:07.746 [info] 로그 수준: Info
+2024-03-25 10:32:07.746 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2024-03-25 10:32:07.746 [info] "2.43.0"에서 git "git"을(를) 사용하는 중
+2024-03-25 10:32:07.746 [info] > git rev-parse --show-toplevel [25ms]
+2024-03-25 10:32:07.746 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:07.746 [info] > git rev-parse --show-toplevel [21ms]
+2024-03-25 10:32:07.746 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:07.752 [info] > git rev-parse --show-toplevel [16ms]
+2024-03-25 10:32:07.752 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:08.207 [info] > git rev-parse --show-toplevel [5ms]
+2024-03-25 10:32:08.207 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:09.340 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-25 10:32:09.344 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:27.884 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-25 10:32:27.884 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:32:30.054 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-25 10:32:30.054 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:33:32.768 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-25 10:33:32.768 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:33:33.565 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-25 10:33:33.566 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 12:53:10.193 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-25 12:53:10.209 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-03-25 12:53:10.251 [info] Open repository: /root/docker/05_onbuild/dockertext2
+2024-03-25 12:53:10.277 [info] > git config --get commit.template [12ms]
+2024-03-25 12:53:10.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-03-25 12:53:10.286 [warning] No such branch: master.
+2024-03-25 12:53:10.324 [info] > git status -z -uall [21ms]
+2024-03-25 12:53:10.458 [info] > git config --get commit.template [25ms]
+2024-03-25 12:53:10.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-03-25 12:53:10.501 [warning] No such branch: master.
+2024-03-25 12:53:10.554 [info] > git status -z -uall [11ms]
+2024-03-25 14:48:45.328 [info] > git config --get commit.template [13ms]
+2024-03-25 14:48:45.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-03-25 14:48:45.343 [warning] ENOENT: no such file or directory, open '/root/docker/05_onbuild/dockertext2/.git/refs/remotes/origin/master'
+2024-03-25 14:48:45.347 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-03-25 14:48:45.398 [info] > git status -z -uall [44ms]

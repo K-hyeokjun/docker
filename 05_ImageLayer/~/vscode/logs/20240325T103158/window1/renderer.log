@@ -1,0 +1,4 @@
+2024-03-25 10:32:03.977 [info] Started local extension host with pid 7200.
+2024-03-25 10:32:05.472 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-03-25 10:32:06.089 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-03-25 10:32:09.238 [info] [perf] Render performance baseline is 122ms

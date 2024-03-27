@@ -1,0 +1,5 @@
+2024-03-25 10:11:04.817 [info] update#setState idle
+2024-03-25 10:11:34.820 [info] update#setState checking for updates
+2024-03-25 10:11:34.903 [info] update#setState idle
+2024-03-25 10:11:44.303 [info] Extension host with pid 3892 exited with code: 0, signal: unknown.
+2024-03-25 10:12:45.109 [info] Extension host with pid 4000 exited with code: 0, signal: unknown.
